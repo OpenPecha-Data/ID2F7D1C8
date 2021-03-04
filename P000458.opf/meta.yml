@@ -1,16 +1,17 @@
-id: opecha:P000458
+id: P000458
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1CZ2398
   title: གུང་ཐང་པའི་ཤེས་རབ་སྙིང་པོའི་སྔགས་ཀྱི་རྣམ་བཤད་དང་ཅོ་ནེ་བླ་མ་བློ་བཟང་རྒྱ་མཚོའི་ལྟ་མགུར་སོགས
-  volume:
+  author: ''
+  volumes:
     eb3ee1891bb24fc2bdc7854592ef2f6e:
       image_group_id: I1CZ2452
       title: Volume 1 of gung thang pa'i shes rab snying po'i sngags kyi rnam bshad
         dang co ne bla ma blo bzang rgya'i mtsho'i lta mgur sogs
       volume_number: 1
       total_pages: 242
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: གུང་ཐང་པའི་ཤེས་རབ་སྙིང་པོའི་སྔགས་ཀྱི་རྣམ་བཤད་དང་ཅོ་ནེ་བླ་མ་བློ་བཟང་རྒྱ་མཚོའི་ལྟ་མགུར་སོགས
   author: ''
